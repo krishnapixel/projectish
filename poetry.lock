@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "Fast and simple WSGI-framework for small web-applications."
+name = "bottle"
+optional = false
+python-versions = "*"
+version = "0.12.17"
+
+[[package]]
+category = "main"
+description = "Lightweight helpers for views returning json data in Django."
+name = "jason"
+optional = false
+python-versions = "*"
+version = "0.1.7"
+
+[metadata]
+content-hash = "c78e130ac2da0a35c18c98b9f8d504b9c94292d70a9ebf3a6ff7a87314b66273"
+python-versions = "^3.7"
+
+[metadata.hashes]
+bottle = ["1896a33b2c7c5be07491e6789e341f2e9593a0ff024cc0374615118587c81647", "e9eaa412a60cc3d42ceb42f58d15864d9ed1b92e9d630b8130c871c5bb16107c"]
+jason = ["ebb3a47bba158161488ee8ca80f927487b0b3261f80a235f4130bcf438eea454"]
